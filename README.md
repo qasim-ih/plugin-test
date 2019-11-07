@@ -1,0 +1,2 @@
+# plugin-test
+Testing plugin
